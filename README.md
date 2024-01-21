@@ -12,7 +12,13 @@
 
 ###
 
-<div align="center">
+<div align="center" >
+  <div align="center">
+  <a href="https://open.spotify.com/user/31gvkuoone4gsn522klqudqoefj4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gvkuoone4gsn522klqudqoefj4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
@@ -71,7 +77,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture></div>
+
 <div align="center">
   <img height="500" src="https://github.com/notDeep7/notDeep7/blob/main/219506.gif?raw=true"  />
 </div>
-
