@@ -77,5 +77,5 @@
 </picture></div>
 
 <div align="center">
-  <img height="500" src="https://github.com/notDeep7/notDeep7/blob/main/219506.gif?raw=true"  />
+  <img height="500" src="https://github.com/notDeep7/notDeep7/blob/main/video1.gif?raw=true"  />
 </div>
