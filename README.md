@@ -27,7 +27,7 @@ Hi 👋, I am **asumi** an enthusiastic and ambitious full stack developer. I sp
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 Connect with me at [My Linkdein](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 Connect with me at [My Linkdein](https://www.linkedin.com/in/deep-sarkar-92b453245/)
 
 - 💬 Ask me about **open source, web development, and community management**
 
